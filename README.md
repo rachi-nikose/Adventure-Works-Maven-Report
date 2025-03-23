@@ -1,4 +1,5 @@
-# Problem Statement
+# Adveture Retail Sales Analysis
+## Problem Statement
 AdventureWorks, a retail company, seeks to optimize sales, profitability, and customer satisfaction by analyzing product performance, sales trends, and return rates. 
 The company needs data-driven insights to:
 
@@ -143,4 +144,8 @@ Pacific region has low sales → Explore partnerships with local distributors.
 Use region-specific advertising (e.g., running ads in local languages).
 
 Identify cultural preferences in underperforming markets.
+
+![Screenshot 2025-03-23 174954](https://github.com/user-attachments/assets/7b274c59-1d85-46b1-a9bf-e2a2bff93b80)
+
+![Screenshot 2025-03-23 174935](https://github.com/user-attachments/assets/d31be09f-baec-4276-828a-b890f1ac7fb6)
 
